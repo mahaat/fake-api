@@ -1,8 +1,8 @@
 {
   "user": [
-    { "id": 1, "first_name": "Parto", "last_name": "Parto", "email" : "parto@simple.com"},
-    { "id": 2, "first_name": "Michael", "last_name": "Jerkson" , "email" : "michael@jerkson.com"},
-    { "id": 3, "first_name": "Jon" , "last_name": "Bon Jopi", "email" : "bon@simple.com"}
+    { "id": 1, "first_name": "Parto", "last_name": "Parto", "email" : "parto@simple.com", "phone" : "080989999"},
+    { "id": 2, "first_name": "Michael", "last_name": "Jerkson" , "email" : "michael@jerkson.com", "phone" : "1234569696969"},
+    { "id": 3, "first_name": "Jon" , "last_name": "Bon Jopi", "email" : "bon@simple.com", "phone" : "081327156667"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
